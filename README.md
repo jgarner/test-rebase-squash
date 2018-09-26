@@ -25,8 +25,7 @@ instead of
 
 A word of caution: Only do this on commits that haven’t been pushed to an external repository. If others have based work off of the commits that you’re going to delete, plenty of conflicts can occur. Just don’t rewrite your history if it’s been shared with others.
 
-1) http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
-2) https://gist.github.com/patik/b8a9dc5cd356f9f6f980
+http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
 `git rebase -i Head~4` for 4 last commits
 
