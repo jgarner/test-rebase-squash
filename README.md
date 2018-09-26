@@ -28,7 +28,7 @@ A word of caution: Only do this on commits that haven’t been pushed to an exte
 1) http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 2) https://gist.github.com/patik/b8a9dc5cd356f9f6f980
 
-`git reabse -i Head~4` for 4 last commits
+`git rebase -i Head~4` for 4 last commits
 
 check link 1 above.
 
