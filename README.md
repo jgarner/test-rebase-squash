@@ -19,7 +19,7 @@ https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-me
 
 instead of
 
-`ggit merge branch_name`
+`git merge branch_name`
 
 # squashing
 
