@@ -5,3 +5,5 @@ Close your eyes and vividly think about where you want to go, really feel it, yo
 Open your eyes.
 
 Good work you teleported.
+
+- it worked!
