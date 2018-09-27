@@ -7,3 +7,5 @@ Open your eyes.
 Good work you teleported.
 
 - it worked!
+- worked for me too
+- didn't work for me :(
