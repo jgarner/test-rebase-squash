@@ -9,8 +9,5 @@ Good work you teleported.
 - it worked!
 - worked for me too
 - didn't work for me :(
-<<<<<<< HEAD
 - worked!
-=======
 - yo yo intentional conflict!
->>>>>>> intentional conflict
