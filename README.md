@@ -30,3 +30,9 @@ The other thing is generally if you lean towards medium-sized commits and just p
 http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
 `git rebase -i Head~4` for 4 last commits
+
+# commit
+
+- `git add *`
+- `git commit -m "my message`
+- `git push origin branch_name`
