@@ -38,7 +38,7 @@ to change from vi to nano for the terminal `git config --global core.editor "nan
 # commit
 
 - `git add *` or for a file `git add path_to_file`
-- `git commit -m "my message`
+- `git commit -m "my message"`
 - `git push origin branch_name`
 
 fyi can use `git status` to see changes
