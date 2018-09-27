@@ -31,8 +31,12 @@ http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
 `git rebase -i Head~4` for 4 last commits
 
+fyi can use `git log` to get relevant logs
+
 # commit
 
 - `git add *`
 - `git commit -m "my message`
 - `git push origin branch_name`
+
+fyi can use `git status` to see changes
