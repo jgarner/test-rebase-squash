@@ -33,6 +33,8 @@ http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
 fyi can use `git log` to get relevant logs
 
+to change from vi to nano for the terminal `git config --global core.editor "nano"`
+
 # commit
 
 - `git add *`
