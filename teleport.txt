@@ -11,5 +11,9 @@ Good work you teleported.
 - didn't work for me :(
 - worked!
 - yo yo intentional conflict!
+<<<<<<< HEAD
 
  Hello
+=======
+- did not work :(
+>>>>>>> f_featureBranch - changed b to d

@@ -10,4 +10,7 @@ hi x 4
 jj
 
 Bye ;)
+<<<<<<< HEAD
 Hello, world
+=======
+>>>>>>> f_featureBranch - changed b to d
